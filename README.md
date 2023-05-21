@@ -50,22 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shardapatil/shardapatil/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shardapatil/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
 
 
 
