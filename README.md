@@ -33,6 +33,10 @@
 </div>
 
 ###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nikhilnaik21&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+###
 
 <div align="left">
   <a href="sonyapatil265@gmail.com" target="_blank">
@@ -50,6 +54,7 @@
 
 <br clear="both">
 
-
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
