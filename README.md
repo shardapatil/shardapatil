@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<br>I am a proficient developer with 2 years of experience, actively sharpening my technical skills to stay ahead. I thrive on continuous learning and am dedicated to delivering exceptional results in software development.</h4>
+<br>I am a proficient developer with 2 years of experience, actively sharpening my technical skills to stay ahead.<br>I thrive on continuous learning and am dedicated to delivering exceptional results in software development.</h4>
 <br>
 ### Socials <br>
 <div align="left">
