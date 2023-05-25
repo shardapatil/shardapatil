@@ -23,7 +23,7 @@
 </div>
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilnaik21&theme=vision-friendly-dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shardapatil&theme=vision-friendly-dark&hide_border=false)
 
 </div>
 ###
