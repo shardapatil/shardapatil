@@ -26,7 +26,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shardapatil&theme=vision-friendly-dark&hide_border=false)
 
 </div>
-###Skills
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
