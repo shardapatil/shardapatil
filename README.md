@@ -3,7 +3,7 @@
     Hi there 👋
 </p>
 
-<p align="right">
+<p align="center">
     <img src="https://profile-counter.glitch.me/{KARANKANOJIA7830}/count.svg" alt="Visitor Count">
 </p>
 
