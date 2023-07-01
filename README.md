@@ -1,10 +1,10 @@
-<div align="right">
+<div align="left">
   
 ### Hi there 👋
   
 </div>
 
-<div align="left">
+<div align="right">
   
 ![Visitor Count](https://profile-counter.glitch.me/{KARANKANOJIA7830}/count.svg)
   
