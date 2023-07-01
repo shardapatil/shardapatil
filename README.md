@@ -9,7 +9,12 @@
 
 <br>I am a proficient developer with 2 years of experience, actively sharpening my technical skills to stay ahead.<br>I thrive on continuous learning and am dedicated to delivering exceptional results in software development.</h4>
 <br>
-### Socials <br>
+
+<p align="center">
+   ### Socials <br>
+</p>
+
+
 <div align="left">
   <a href="sonyapatil265@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
