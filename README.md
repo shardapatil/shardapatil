@@ -11,9 +11,8 @@
 <br>
 
 <p align="center">
-   ### Socials <br>
+ Socials <br>
 </p>
-
 
 <div align="left">
   <a href="sonyapatil265@gmail.com" target="_blank">
