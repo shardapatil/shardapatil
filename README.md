@@ -1,4 +1,4 @@
-### Hi there 👋                                                         ![Visitor Count](https://profile-counter.glitch.me/{KARANKANOJIA7830}/count.svg)
+### Hi there 👋                                                 ###     ![Visitor Count](https://profile-counter.glitch.me/{KARANKANOJIA7830}/count.svg)
 <br>
 
 <br>I am a proficient developer with 2 years of experience, actively sharpening my technical skills to stay ahead.<br>I thrive on continuous learning and am dedicated to delivering exceptional results in software development.</h4>
