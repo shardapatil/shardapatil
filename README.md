@@ -1,10 +1,13 @@
-<div style="display: flex; justify-content: space-between;">
-    <div style="text-align: right;">
-        ### Hi there 👋
-    </div>
-    <div style="text-align: left;">
-        ![Visitor Count](https://profile-counter.glitch.me/{KARANKANOJIA7830}/count.svg)
-    </div>
+<div align="right">
+  
+### Hi there 👋
+  
+</div>
+
+<div align="left">
+  
+![Visitor Count](https://profile-counter.glitch.me/{KARANKANOJIA7830}/count.svg)
+  
 </div>
 
 
