@@ -7,7 +7,7 @@
     <img src="https://profile-counter.glitch.me/{KARANKANOJIA7830}/count.svg" alt="Visitor Count">
 </p>
 
-<br>I am a proficient developer with 2 years of experience, actively sharpening my technical skills to stay ahead.<br>I thrive on continuous learning and am dedicated to delivering exceptional results in software development.</h4>
+<br>I am a dedicated developer focused on continuous learning and delivering exceptional results in software development. I thrive on sharpening my technical skills to stay ahead in the industry.</h4>
 <br>
 
 <p align="center">
