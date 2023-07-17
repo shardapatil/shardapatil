@@ -5,7 +5,7 @@
 
 <p align="center">
     
-    ![Visitor Count](https://profile-counter.glitch.me/{shardapatil}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{shardapatil}/count.svg)
 
 </p>
 
