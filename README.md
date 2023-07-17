@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img src="https://profile-counter.glitch.me/{KARANKANOJIA7830}/count.svg" alt="Visitor Count">
+    <img src="https://profile-counter.glitch.me/{shardapatil}/count.svg" alt="Visitor Count">
 </p>
 
 <br>I am a dedicated developer focused on continuous learning and delivering exceptional results in software development.<br> I thrive on sharpening my technical skills to stay ahead in the industry.</h4>
