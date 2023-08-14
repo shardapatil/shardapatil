@@ -14,9 +14,7 @@
 <p align="center">
  Socials <br>
 </p>
-
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:sonyapatil265@gmail.com)
-
+<div>
   </a>
   <a href="https://www.linkedin.com/in/sharda-patil-07152a147" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -24,6 +22,9 @@
   <a href="https://www.hackerrank.com/sonyapatil265" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
+    <a href="https://leetcode.com/Shar25/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
+</a>
 </div>
 
 
